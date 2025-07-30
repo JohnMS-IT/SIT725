@@ -1,0 +1,30 @@
+{
+  "name": "sit725-task-3.2p",
+  "version": "1.0.0",
+  "description": "SIT725 Week 3 Practical - Materialize + Express App",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMS-IT/SIT725.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "John M. Shaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnMS-IT/SIT725/issues"
+  },
+  "homepage": "https://github.com/JohnMS-IT/SIT725#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
