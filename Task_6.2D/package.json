@@ -1,0 +1,38 @@
+{
+  "name": "sit725-task-4.2p",
+  "version": "1.0.0",
+  "description": "SIT725 Week 4 Practical - Adding a Database",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "mocha --reporter spec"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JohnMS-IT/SIT725.git"
+  },
+  "keywords": [
+    "Nodejs",
+    "Express",
+    "Materialize",
+    "HTML",
+    "CSS",
+    "JavaScript"
+  ],
+  "author": "John M. Shaji",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/JohnMS-IT/SIT725/issues"
+  },
+  "homepage": "https://github.com/JohnMS-IT/SIT725#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^8.17.1"
+  },
+  "devDependencies": {
+    "chai": "^6.0.1",
+    "chai-http": "^5.1.2",
+    "mocha": "^11.7.1",
+    "request": "^2.88.2"
+  }
+}
